@@ -19,7 +19,7 @@ What I learned from the projects:
 
 These are all the tasks of this project, the ones that are completed link to the corresponding files.
 
-### [Lesson 1. Build your First App ](./)
+### [Lesson 1. Build your First App ](./DiceRoller)
 * Dice Roller project
 	- 
 ---
