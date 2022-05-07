@@ -21,7 +21,20 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [Lesson 1. Build your First App ](./DiceRoller)
 * Dice Roller project
-	- 
+	- Adding a Button
+	- Connecting the Button
+	- Using findViewById
+	- Using OnClickListener
+	- Changing Text
+	- Adding ImageView
+	- Adding Images
+	- Finding Views Efficiently
+	- Namespaces
+	- Introduction to Gradle
+	- Android Compatibility
+	- Vector Drawables
+
+
 ---
 
 ### Author
