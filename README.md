@@ -34,7 +34,7 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Android Compatibility
 	- Vector Drawables
 
-### [Lesson 2. Layouts]()
+### [Lesson 2. Layouts](./AboutMe)
 * 
 	- View Groups & Hierachy
 	- Creating Layout File
