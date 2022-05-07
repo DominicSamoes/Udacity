@@ -34,6 +34,20 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Android Compatibility
 	- Vector Drawables
 
+### [Lesson 2. Layouts]()
+* 
+	- View Groups & Hierachy
+	- Creating Layout File
+	- Layout Editor Basics
+	- Adding a TextView
+	- Styling a TextView
+	- Adding a TextView, ImageView, and Styling
+	- Adding a ScrollView
+	- Adding an EditText for Text Input
+	- Adding a Done Button to Accept Text Input
+	- ClickHandler
+	- DataBinding: Views and Data
+	- Constraints and Ratios
 
 ---
 
