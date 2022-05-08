@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Dominic Samo</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+
+        My name is Dominic Samo. I am both from Mozambique and Eswatini.
+
+        \n\n I am a Computer Science and Physics student. I have interests in Financial Technology (FinTech), Android and Web App Development,
+        Computational Physics and Machine Learning.
+
+        \n\n I enjoy swimming and mountain biking in my spare time as well as coding and drawing. Am extensive reader of fiction, comics,
+        and nonfiction.
+
+        \n\n I am a History and Geography nerd. From time to time I read books on philosophy.
+
+    </string>
 </resources>
