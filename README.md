@@ -20,7 +20,7 @@ What I learned from the projects:
 These are all the tasks of this project, the ones that are completed link to the corresponding files.
 
 ### [Lesson 1. Build your First App ](./DiceRoller)
-* Dice Roller project
+* Lessons learnt:
 	- Adding a Button
 	- Connecting the Button
 	- Using findViewById
@@ -35,7 +35,7 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Vector Drawables
 
 ### [Lesson 2. Layouts](./AboutMe)
-* 
+* Lessons learnt:
 	- View Groups & Hierachy
 	- Creating Layout File
 	- Layout Editor Basics
@@ -48,6 +48,19 @@ These are all the tasks of this project, the ones that are completed link to the
 	- ClickHandler
 	- DataBinding: Views and Data
 	- Constraints and Ratios
+
+### [Lesson 3. App Navigation](./andfun-kotlin-android-trivia)
+
+* Lessons learnt:
+	-  Android Navigation Patterns
+	- Fragments
+	- Navigation Component
+	- Principles of Navigation
+	- Back Stack Manipulation
+	- Intents and Sharing
+	- Animation with Navigation
+
+
 
 ---
 
